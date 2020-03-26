@@ -14,3 +14,7 @@ curl -L https://github.com/huhtikuu/huhtikuu/releases/download/v1.0.1/huhtikuu -
 * run `./huhtikuu init` to prepare your raspberry. It will take some minutes
 * move to a location with no bluetooth and wifi devices nearby
 * run `./huhtikuu scan` to start scanning for SMS messages
+
+## Credits
+
+Special thanks to @duben_security.
