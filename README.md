@@ -1,3 +1,5 @@
+# Be careful. This software was released on April 1st.
+
 ![](huhtikuu.png)
 # huhtikuu
 GSM scanner for raspberry pi. Just a proof of concept.
